@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smart-bank-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/smart-bank-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
